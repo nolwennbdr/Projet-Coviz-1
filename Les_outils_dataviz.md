@@ -29,5 +29,21 @@ On ne peut pas faire d’analyse critique avec l’outil Palladio. Il est préf�
 
 ## Les outils recommandés pour le format de timeline
 ### Timeline JS
-DCFGHJKL
+
+
+Timeline JS est un outil open source créé par le Northwestern University Knight Lab, de l’université de Chicago et San Francisco. Il fait partie d’une suite d’outil gratuit permettant de créer des storytelling interactifs destinés au journalisme, dans la veine du data-journalism.2 
+
+C’est un outil simple d’utilisation, qui permet de créer des frises chronologiques.  Il fonctionne à partir d’un template Google Spreadsheet qui propose différents champs à renseigner. Son utilisation nécessite néanmoins la création d’un compte google.  
+
+Les champs disponibles : 
+
+- Date de d’entrée dans la chronologie.  
+- Dates de fin (possibilité de créer des périodes entre deux dates) 
+- Date d'affichage 
+- Le titre et le corps du texte qui seront affichés sur chaque (champs non obligatoires, HTML autorisé) 
+- Possibilité d’ajout de médias à partir d'une variété de sources et a un support intégré pour Twitter, Instagram, Flickr, Google Maps, DropBox, DocumentCloud, Wikipedia, SoundCloud, Storify, iframes, les principaux sites vidéo   
+- Possibilité de groupé les dates sur plusieurs niveau grâce à des descripteurs renseignés dans la colonne « group » 
+
+Cet outil peut également être utilisé avec un fichier JSON et le rendu des visualisations peut être amélioré avec du CSS. 
+
 ### Matplotlib
