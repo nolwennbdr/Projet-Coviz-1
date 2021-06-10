@@ -238,6 +238,8 @@ quitter = Button(fenetre, text='Fermer l\'application',width=50, command=quit).p
 fenetre.mainloop()
 ```
 ## Résultat du scrapping
+
+
 |Column 1                                                                                                                              |Column 2            |Column 3   |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|
 |Covid-19                                                                                                                              |2020-02-14T00:00:00Z|Norvégien  |
