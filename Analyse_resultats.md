@@ -136,7 +136,7 @@ A travers la timeline crée uniquement pour les données en portugais, on peut c
 
 ## Analyse des données en portugais de 2021 : 
 |   Date    |                   Titre en portugais                  |                       Titre en français                        |
-|:---------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|
+|-----------|-------------------------------------------------------|----------------------------------------------------------------|
 | 14.04.21  | CPI da COVID-19                                       | Commission               d’enquête  parlementaire du COVID-19  |
 | 18.01.21  | Vacinação contra a COVID-19 no Brasil                 | Vaccination contre le COVID19 au Brésil                        |
 | 27.03.21  | Recessão causada pela pandemia de COVID-19            | Récession due à la pandémie                                    |
@@ -161,7 +161,7 @@ En ce qui concerne les données en italien, une grande partie des articles ont �
 
 ## Analyse des données en italien 2021 : 
 |   Date    |                          Titre en italien                         |                 Titre en français                 |
-|:---------:|:-----------------------------------------------------------------:|:-------------------------------------------------:|
+|-----------|-------------------------------------------------------------------|---------------------------------------------------|
 |  19.3.21  | Statistiche       della     pandemia      di  COVID-19 in Italia  | Statistique de la pandémie du covid-19 en Italie  |
 |  2.02.21  | Vaccino anti COVID-19 Novavax                                     | Vaccin anti COVID-19 Novavax                      |
 | 02.02.21  | Vaccino anti COVID-19 Johnson & Johnson                           | Vaccin anti Covid-19 Johnson & Johnson            |
