@@ -1,6 +1,8 @@
 
 ## Visualisations des données Timelines JS: TURC
 
+Certaines langues contiennent plus de données, cela est certainement dû au fait que diverses langues sont parlées dans plusieurs pays différents. Au niveau géographique, on ne peut malheureusement pas donner la provenance exacte des articles Wikipédia mais nous pouvons en déduire pour certaines langues comme le turc, qui est une langue uniquement parlée en Turquie et idem pour d’autres langues. 
+
 ![TimelineJS_Turque_2](https://user-images.githubusercontent.com/75143201/121569582-3c570700-ca21-11eb-95fe-639b4c24c3ca.png)
 
 ![TimeslineJS_Turque_1](https://user-images.githubusercontent.com/75143201/121569635-48db5f80-ca21-11eb-97a9-286a1a2adea0.png)
