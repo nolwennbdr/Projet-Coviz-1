@@ -8,6 +8,7 @@ Les données trouvées en portugais contiennent 205 articles contenant le mot CO
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KIK-rpBdiw-XhN3S8BF-5TAIqvs16QGB_8l6sQ67D2w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
 **Premier article publié** : 20 janvier 2020 Pandemia de Covid-19= Pandémie du Covid-19 
 **Dernier article publié** : 31 mars 2021 Vacinação contra a Covid-19 em Portugal = Vaccination contre le Covid-19 au Portugal 
 
