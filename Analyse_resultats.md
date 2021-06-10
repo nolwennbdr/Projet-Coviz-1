@@ -1,3 +1,6 @@
+# Dataviz et analyse des résultats
+Dans cette partie nous abordons les dataviz et l'analyse des résultats par langue
+
 ## Visualisation des données Timeline JS : Francais
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j3aVnvZh0e2n_EdQ0JGbPjdTWHfU9NVTUerSh7AYyjU&font=Default&lang=en&initial_zoom=10&height=500' width='100%' height='500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
