@@ -15,6 +15,8 @@ Environ 65-70% des articles "Pandémie de Covid-19 dans tel pays"
 
 Sujet géographique par ordre d'apparition : Iran, Corée du sud, Italie, France, Suisse, Allemagne, Australie, Belgique, Espagne, état unis, royaume unis, chine, Algérie, Luxembourg, Confinement en Italie 
 
+Résultats 2021
+
 |        Date       |                                Titre                                |
 |:-----------------:|:-------------------------------------------------------------------:|
 |  January 5, 2021  |     Programme de vaccination contre la Covid-19 du Royaume-Uni      |
@@ -37,7 +39,7 @@ Sujet géographique par ordre d'apparition : Iran, Corée du sud, Italie, France
 |  April 24, 2021   |               Politique vaccinale contre la Covid-19                |
 |    May 7, 2021    | Impact de la pandémie de Covid-19 sur la télévision aux États-Unis  |
 
-En comparaison à l’Allemagne, la situation en Turquie a été traité le 23 mars en Français. On constate néanmoins que le traitement de l’Algérie apparait assez tôt dans les articles Français. Les pays francophones eux-mêmes n’ont pas été traité en priorité par les auteurs francophones. 
+En comparaison à l’Allemagne, la situation en Turquie a été traité le 23 mars en Français, c'est à dire plus tot. On constate néanmoins que le traitement de l’Algérie apparait assez tôt dans les articles Français. Les pays francophones eux-mêmes n’ont pas été traité en priorité par les auteurs francophones. 
 
 De septembre à octobre, on voit un intérêt tout particulier pour le Canada Francophone et le Canada en général. 
 
@@ -59,8 +61,19 @@ Premier article : 14 janvier 2020 - Covid 19
 
 Dernier article : 5 mai 2021 : COVID-19-Schutzmaßnahmen-Ausnahmenverordnung 
 
-
 Sujet géographique par ordre d'apparition : Chine, Taiwan, Chili dès janvier, puis Italie le 23 février (isolé), puis Allemagne et les Bundeslander, Corée du sud, suisse, Liechtenstein, Autriche, Ukraine, Island, France, Monaco, Estonie, Vanuatu, Comores, Lesotho, Iran, Cameroun, Togo, Espagne, etc. 
+
+Résultats 2021 :
+
+
+|        Date        |                              Titre                             |                                        Traduction                                       |
+|:------------------:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| February 17, 2021  | Zero Covid                                                     | Zero Covid                                                                              |
+| February 20, 2021  | Chronik der COVID-19-Pandemie in den Vereinigten Staaten 2020  | Chronique de la pandémie de COVID-19 de 2020 aux Etats-Unis.                            |
+| February 20, 2021  | Schulpräsenzpflicht in der COVID-19-Pandemie                   | Exigences en matière de fréquentation scolaire dans le cadre de la pandémie de COVID 19 |
+| April 10, 2021     | Software zur Bekämpfung der COVID-19-Pandemie                  | Utilisation et développement logiciel pour l'atténuation de la pandémie de COVID-19     |
+| April 29, 2021     | COVID-19-Pandemie in Europa                                    | Covid 19 en Europe                                                                      |
+| May 5, 2021        | COVID-19-Schutzmaßnahmen-Ausnahmenverordnung                   | Exception aux mesures de protection contre le Covid 19                                  |
 
 On constate que la situation en Turquie a été traité le 27 mars 2020, vers le milieu du pic d’activité dans la publication des articles. L’hypothèse du traitement des pays possédant des liens proches ne se vérifie pas ici : on peut supposer que la proximité géographique de la crise et l’intensité des crises selon pays ont motivés la rédaction des articles (Italie, premier pays européen traité) 
 
@@ -80,6 +93,15 @@ Dernier résultat le 28 avril, après deux mois d’inactivité : La pandémie
 Un léger pic entre mars et avril, mais beaucoup moins conséquent que sur les autres langues 
 
 Sujet Géographique par ordre d’apparition : Pologne, Italie, Chine, Kosovo, Espagne, Kirghizistan, Allemagne, Vatican, Russie, Etats-Unis, France, Royaume-Uni, Slovaquie, Canada, Pandémie de COVID-19 en Suisse, Hollande, Australie, Danemark, Iran, Israël, République démocratique du Congo, « Pandémie de COVID-19 par pays », Brésil, Mongolie, Inde, Ouzbékistan, Luxembourg, Mexique, Asie, Belgique, Malaisie, Indonésie, Philippine, Nouvelle Zélande, Madagascar, Ukraine, Paraguay 
+
+Résultat 2021 :
+|       Date       |                   Titre                  |                 Traduction                |
+|:----------------:|:----------------------------------------:|:-----------------------------------------:|
+| January 2, 2021  | Pandemia COVID-19 w Nowej Zelandii       | Pandémie de Covid-19 en Nouvelle Zélande  |
+| January 4, 2021  | Szczepienia przeciw COVID-19 w Polsce    | Vaccination contre le COVID-19 en Pologne |
+| February 5, 2021 | Pandemia COVID-19 na Madagaskarze        | Pandémie de Covid 19 au Madagascar        |
+| March 1, 2021    | Szczepienia przeciw COVID-19 na Ukrainie | Vaccination contre le COVID-19 en Pologne |
+| April 28, 2021   | Pandemia COVID-19 w Paragwaju            | Pandémie de Covid-19 au Paraguay          |
 
 Le polonais n’étant parlé que dans un pays, le nombre de résultat est bien plus réduit. Les sujets restent très réduits « vaccination » « traitement » ; à coté un certain nombre de pays a été traité : proportionnellement au nombre d’article, les autres pays ont été plus traité que la France ou même l’Allemagne. 
 
