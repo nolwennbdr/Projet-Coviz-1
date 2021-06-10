@@ -1,6 +1,89 @@
 # Dataviz et analyse des résultats
 Dans cette partie nous abordons les dataviz et analyses des résultats par langues.
 
+## Visualisation des données Timeline JS : Francais
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j3aVnvZh0e2n_EdQ0JGbPjdTWHfU9NVTUerSh7AYyjU&font=Default&lang=en&initial_zoom=10&height=500' width='100%' height='500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+207 résultats 
+
+Premier résultat mai 2019 : pandémie covid au Cameroun (historique “la caserne des meubles est un établissement d'ameublement et de décoration intérieure basée au Cameroun ayant pour objectif d’être le IKEA de l’Afrique centrale.” Changement du sujet à la mise à jour) 
+
+Lourde répartition entre mars et avril (frise très peu lisible) 
+
+Environ 65-70% des articles "Pandémie de Covid-19 dans tel pays" 
+
+Sujet géographique par ordre d'apparition : Iran, Corée du sud, Italie, France, Suisse, Allemagne, Australie, Belgique, Espagne, état unis, royaume unis, chine, Algérie, Luxembourg, Confinement en Italie 
+
+|        Date       |                                Titre                                |
+|:-----------------:|:-------------------------------------------------------------------:|
+|  January 5, 2021  |     Programme de vaccination contre la Covid-19 du Royaume-Uni      |
+|  January 8, 2021  |           Pandémie de Covid-19 dans les Visayas centrales           |
+|  January 9, 2021  |        Campagne de vaccination contre la Covid-19 en France         |
+|  January 9, 2021  |                Pandémie de Covid-19 aux Philippines                 |
+| January 10, 2021  |                            Gam-COVID-Vac                            |
+| January 12, 2021  |        Pandémie de Covid-19 aux États fédérés de Micronésie         |
+| January 16, 2021  |        Confinements liés à la pandémie de Covid-19 au Québec        |
+| January 19, 2021  |           Impact de la pandémie de Covid-19 sur le cinéma           |
+| January 23, 2021  |                             Covid long                              |
+| February 5, 2021  |                Enquêtes sur l'origine de la Covid-19                |
+|   March 2, 2021   |                Traitement et gestion de la Covid-19                 |
+|  March 18, 2021   |            Liste de vaccins contre la Covid-19 autorisés            |
+|  March 24, 2021   |        Campagne de vaccination contre la Covid-19 au Québec         |
+|  March 24, 2021   |                  Pandémie de Covid-19 en Éthiopie                   |
+|  March 24, 2021   |                   Pandémie de Covid-19 à Djibouti                   |
+|  April 14, 2021   |          Modélisation mathématique de l'épidémie Covid-19           |
+|  April 15, 2021   |                  Pandémie de Covid-19 au Cambodge                   |
+|  April 24, 2021   |               Politique vaccinale contre la Covid-19                |
+|    May 7, 2021    | Impact de la pandémie de Covid-19 sur la télévision aux États-Unis  |
+
+En comparaison à l’Allemagne, la situation en Turquie a été traité le 23 mars en Français. On constate néanmoins que le traitement de l’Algérie apparait assez tôt dans les articles Français. Les pays francophones eux-mêmes n’ont pas été traité en priorité par les auteurs francophones. 
+
+De septembre à octobre, on voit un intérêt tout particulier pour le Canada Francophone et le Canada en général. 
+
+On constate que la production d’article en langue française est beaucoup plus forte que la production allemande : et pour cause, la France a été bien moins productive sur l’année 2020 sur le traitement de la situation des autres pays. Une hypothèse possible est que les rédacteurs allemands sont plus réactifs sur la traduction de ces articles le plus souvent issus de l’anglais. 
+
+## Visualisation des données Timeline JS : Allemand
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TFnQ15VT4MhSNVuhU-NLF1nMDw9qJjOyvOr2BYWVGeY&font=Default&lang=en&initial_zoom=10&height=500' width='100%' height='500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+263 résultats 
+
+Un résultat en 2004 : COVID-19-Pandemie in Ischgl (Historique : Großer Tiroler Tourismusort : Grande station touristique tyrolienne) 
+
+Lourde répartition entre mars et avril (frise très peu lisible) 
+
+Environ 80% des articles "Pandémie de Covid-19 dans tel pays" 
+
+Premier article : 14 janvier 2020 - Covid 19 
+
+Dernier article : 5 mai 2021 : COVID-19-Schutzmaßnahmen-Ausnahmenverordnung 
+
+
+Sujet géographique par ordre d'apparition : Chine, Taiwan, Chili dès janvier, puis Italie le 23 février (isolé), puis Allemagne et les Bundeslander, Corée du sud, suisse, Liechtenstein, Autriche, Ukraine, Island, France, Monaco, Estonie, Vanuatu, Comores, Lesotho, Iran, Cameroun, Togo, Espagne, etc. 
+
+On constate que la situation en Turquie a été traité le 27 mars 2020, vers le milieu du pic d’activité dans la publication des articles. L’hypothèse du traitement des pays possédant des liens proches ne se vérifie pas ici : on peut supposer que la proximité géographique de la crise et l’intensité des crises selon pays ont motivés la rédaction des articles (Italie, premier pays européen traité) 
+
+On constate la présence de l’Autriche et du Liechtenstein ainsi que de certain pays de l’ancien bloc de l’Est. 
+
+
+## Visualisation des données Timeline JS : Polonais
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10dhYSZxYEBnh7cxr85f6LaKI7K4YGiWtSVupFHo7OXU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+44 résultats 
+
+Premier résultat le 21 janvier 2020 : Pandemia COVID-19 
+
+Dernier résultat le 28 avril, après deux mois d’inactivité : La pandémie de Covid 19 au Paraguay  
+
+Un léger pic entre mars et avril, mais beaucoup moins conséquent que sur les autres langues 
+
+Sujet Géographique par ordre d’apparition : Pologne, Italie, Chine, Kosovo, Espagne, Kirghizistan, Allemagne, Vatican, Russie, Etats-Unis, France, Royaume-Uni, Slovaquie, Canada, Pandémie de COVID-19 en Suisse, Hollande, Australie, Danemark, Iran, Israël, République démocratique du Congo, « Pandémie de COVID-19 par pays », Brésil, Mongolie, Inde, Ouzbékistan, Luxembourg, Mexique, Asie, Belgique, Malaisie, Indonésie, Philippine, Nouvelle Zélande, Madagascar, Ukraine, Paraguay 
+
+Le polonais n’étant parlé que dans un pays, le nombre de résultat est bien plus réduit. Les sujets restent très réduits « vaccination » « traitement » ; à coté un certain nombre de pays a été traité : proportionnellement au nombre d’article, les autres pays ont été plus traité que la France ou même l’Allemagne. 
+
+
 ## Visualisations des données sur TimelineJS : anglais:
 ![TimelinesJS_Anglais_2](https://user-images.githubusercontent.com/75143201/121572286-49292a00-ca24-11eb-8428-b6aa4f8deb0f.png)
 
@@ -39,8 +122,7 @@ Cependant nous pouvons dire que la plupart des pays ont connu une augmentation p
 
 Pour l’année 2020, 424 articles ont été publiés contre 65 pour l’année 2021 et cela peut se justifier sur le fait que le Covid-19 a été l’actualité phare dans le monde entier et le nombre d’articles en 2020 constitue le récit d’une année qui a changé le monde. Pour les publications de 2021, nous avons pour la plupart des articles qui font le bilan du Covid-19 sur l’année 2020 ainsi que les différents traitements ou vaccin contre le Covid-19. 
 
-
-## Visualisation des données Timeline JS : portugais  
+## Visualisation des données Timeline JS : Portugais  
 Les données trouvées en portugais contiennent 205 articles contenant le mot COVID-19 dans leur titre. Il est possible que les données en portugais contiennent autant d’articles car le portugais est parlé par 252,2 millions de locuteurs dans plusieurs pays du monde dont le Portugal, le Brésil, l’Inde et d’autres pays. Les articles ont été publiés en 2020 et 2021 années correspondant à l’apparition du Covid-19. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KIK-rpBdiw-XhN3S8BF-5TAIqvs16QGB_8l6sQ67D2w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -66,7 +148,6 @@ A travers la timeline crée uniquement pour les données en portugais, on peut c
 | 14.01.21  | Comissão Vaticana COVID-19                            | Comission Vaticaine du COVID-19                                |   |   |
 
 Le portugais contient 10 articles publiés durant l’année 2021. Plusieurs articles concernent la chronologie de la pandémie du Covid-19 afin d’avoir un bilan sur la situation sanitaire dans certains pays. On constate également que des articles contiennent le mot *vaccination*, tel que l’article *Vaccination contre le covid-19 au Brésil* ou *Vaccination contre le COVID-19 au Portugal*. Ces deux articles ont été publiés le même mois, on peut en déduire que cette période a été le début de la campagne sur la vaccination dans ses deux pays de langue portugaise. Le Brésil, pays du continent latino-américain, a été très touché par la crise sanitaire d’où la nécessité de faire une prévention auprès de la population. 
-
 
 ## Visualisation des données Timeline JS : Italien 
 
