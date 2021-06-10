@@ -123,6 +123,43 @@ Cependant nous pouvons dire que la plupart des pays ont connu une augmentation p
 
 Pour l’année 2020, 424 articles ont été publiés contre 65 pour l’année 2021 et cela peut se justifier sur le fait que le Covid-19 a été l’actualité phare dans le monde entier et le nombre d’articles en 2020 constitue le récit d’une année qui a changé le monde. Pour les publications de 2021, nous avons pour la plupart des articles qui font le bilan du Covid-19 sur l’année 2020 ainsi que les différents traitements ou vaccin contre le Covid-19. 
 
+## Visualisation des données sur Timeline JS : Turc
+
+![TimeslineJS_Turque_1](https://user-images.githubusercontent.com/75143201/121578764-4e3da780-ca2b-11eb-8ad4-5af01ecd0f47.png)
+
+![TimelineJS_Turque_2](https://user-images.githubusercontent.com/75143201/121578799-5ac20000-ca2b-11eb-8217-9e9c1a83537f.png)
+
+Analyse des données pour le Turc : 
+
+Résultats : 54 articles ont été publiés 
+
+Nombre d’articles 2020 : 49
+
+Nombre d’articles 2021 : 5
+
+Forte apparition au mois d’avril, mai et juin 2020	Faible publication sur l’Europe : 6 articles 
+
+Articles 2021 :
+
+| Date       | Titre                                                | Titre en français                                               |
+|------------|------------------------------------------------------|-----------------------------------------------------------------|
+| 10.01.2021 | Covid-19 protestolari                                | Manifestations contre le Covid-19                               |
+| 13.01.2021 | Nepal'de covid-19 pandemisi                          | pandémie Covid-19 au Nepal                                      |
+| 17.01.2021 | Covid-19 pandemisinin spor organizasyonlarina etkisi | L’effet de la pandémie Covid-19 sur les organisations sportives |
+| 06.02.2021 | Covid-19 pandemisinin mart 2020 kronolojisi          | Chronologie de mars 2020 de la pandémie Covid-19                |
+| 19.04.2021 | Diamond princess gemisinde covid-19 pandemisi        | Pandémie Covid-19 sur le navire Diamond Princesse               |
+
+Premier article publié : 23 janvier 2020 - COVID-19 pandemisi
+
+Dernier article publié : 19 avril 2021 - Nepal'de COVID-19 pandemisi = pandémie de Covid-19 au Népal 
+
+Sujet géographique par ordre d’apparition : Maurice, Malaisie, Vatican, Lesotho, Turquie, Bhoutan, République de Chypre, République d’Afrique du Sud, Portugal, Inde, Bangladesh, France, Russie, Amérique du Nord, Algérie, Yémen, Bulgarie, Espagne, Norvège. 
+
+Sur les images ci-dessus nous voyons que le nombre d’articles publiés en 2020 dépasse de loin ceux de 2021.  Ensuite nous constatons une forte publication d’article entre avril, mai et juin 2020, cette hausse de publications est peut-être liée au fait que cette période correspondait au pic de l’épidémie dans certains pays et que le Covid-19 faisait l’actualité partout dans le monde. En 2021, même si la pandémie est toujours d’actualité, nous notons une baisse considérable d’articles sur Wikipédia qui est peut-être dû à la découverte de vaccin contre le Covid-19.
+
+Par ailleurs la langue Turque est une langue uniquement parlée en Turquie et nous avons trouvé que la plupart des articles publiés en langue turque évoquent le covid-19 dans des pays comme le Népal, Coréé du Sud, Kazakhstan, Singapour, Bosnie-Herzégovine etc mais rarement des pays de l’Europe et cela peut s’expliquer par des problèmes politiques entre la Turquie et l’Union européenne tels que le par le gel des négociations d’adhésion de la Turquie à l’Union européenne par le parlement européen, le rôle de la Turquie sur la crise migratoire en Europe etc. 
+
+
 ## Visualisation des données Timeline JS : Portugais  
 Les données trouvées en portugais contiennent 205 articles contenant le mot COVID-19 dans leur titre. Il est possible que les données en portugais contiennent autant d’articles car le portugais est parlé par 252,2 millions de locuteurs dans plusieurs pays du monde dont le Portugal, le Brésil, l’Inde et d’autres pays. Les articles ont été publiés en 2020 et 2021 années correspondant à l’apparition du Covid-19. 
 
@@ -143,7 +180,7 @@ A travers la timeline crée uniquement pour les données en portugais, on peut c
 | 18.01.21  | Vacinação contra a COVID-19 no Brasil                 | Vaccination contre le COVID19 au Brésil                        |
 | 27.03.21  | Recessão causada pela pandemia de COVID-19            | Récession due à la pandémie                                    |
 | 30.03.21  | Pandemia de COVID-19 no  Vietnã                       | Pandémie du COVID-19 au  Vietnam                               |
-| 10.01.21  | Cronologia da pandemia de COVID-19 em Israel          | Chronologie de la pandémie du covid 19 en Israël               |
+| 10.0.21   | Cronologia da pandemia de COVID-19 em Israel          | Chronologie de la pandémie du covid 19 en Israël               |
 | 01.01.21  | Cronologia da pandemia de COVID-19 em janeiro de 2021 | Chronologie de la pandémie du COVID-19 en janvier 2021         |
 | 03.01.21  | Cronologia da pandemia de COVID-19 na Ucrânia         | Chronologie de la pandémie du COVID-19 en Ukraine              |
 | 31.01.21  | Vacinação contra a COVID-19 em Portugal               | Vaccination contre le COVID19 au Portugal                      |
@@ -166,8 +203,8 @@ En ce qui concerne les données en italien, une grande partie des articles ont �
 
 |   Date    |                          Titre en italien                         |                 Titre en français                 |
 |:---------:|:-----------------------------------------------------------------:|:-------------------------------------------------:|
-| 19.03.21 | Statistiche della pandemia di  COVID-19 in Italia                 | Statistique de la pandémie du covid-19 en Italie  |
-| 02.02.21  | Vaccino anti COVID-19 Novavax                                     | Vaccin anti COVID-19 Novavax                      |
+|  19.3.21  | Statistiche della pandemia di  COVID-19 in Italia                 | Statistique de la pandémie du covid-19 en Italie  |
+|  2.02.21  | Vaccino anti COVID-19 Novavax                                     | Vaccin anti COVID-19 Novavax                      |
 | 02.02.21  | Vaccino anti COVID-19 Johnson & Johnson                           | Vaccin anti Covid-19 Johnson & Johnson            |
 | 20.01.21  | Pandemia di COVID-19 in Polonia                                   | Pandémie du Covid-19 en Pologne                   |
 | 01.01.21  | Pandemia di COVID-19 in  California                               | Pandémie du Covid-19 en Californie                |
