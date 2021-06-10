@@ -236,3 +236,4 @@ suppression = Button(fenetre, text='Supprimer les données', width=30, command=c
 quitter = Button(fenetre, text='Fermer l\'application',width=50, command=quit).pack(pady=3, ipady=3)
 fenetre.mainloop()
 ```
+## Résultat du scrapping
