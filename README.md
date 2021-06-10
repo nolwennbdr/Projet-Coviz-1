@@ -1,7 +1,7 @@
 # Projet Coviz
 
 
-### Résultat du scrapping
+
 
 ## DataViz et analyse des données
 ### Dataviz Timeline JS
