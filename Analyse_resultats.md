@@ -1,25 +1,95 @@
+# Résultats et analyses
 
-## Visualisations des données Timelines JS: TURC
+## Visualisation des données Timeline JS : Francais
 
-Certaines langues contiennent plus de données, cela est certainement dû au fait que diverses langues sont parlées dans plusieurs pays différents. Au niveau géographique, on ne peut malheureusement pas donner la provenance exacte des articles Wikipédia mais nous pouvons en déduire pour certaines langues comme le turc, qui est une langue uniquement parlée en Turquie et idem pour d’autres langues. 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j3aVnvZh0e2n_EdQ0JGbPjdTWHfU9NVTUerSh7AYyjU&font=Default&lang=en&initial_zoom=10&height=500' width='100%' height='500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![TimelineJS_Turque_2](https://user-images.githubusercontent.com/75143201/121569582-3c570700-ca21-11eb-95fe-639b4c24c3ca.png)
+207 résultats 
 
-![TimeslineJS_Turque_1](https://user-images.githubusercontent.com/75143201/121569635-48db5f80-ca21-11eb-97a9-286a1a2adea0.png)
+Premier résultat mai 2019 : pandémie covid au Cameroun (historique “la caserne des meubles est un établissement d'ameublement et de décoration intérieure basée au Cameroun ayant pour objectif d’être le IKEA de l’Afrique centrale.” Changement du sujet à la mise à jour) 
 
-### Analyse des données pour le Turc
-*Résultats : 54 articles ont été publiés 
-*Nombre d’articles 2020 : 49
-*Nombre d’articles 2021 : 5
-*Forte apparition au mois d’avril, mai et juin 2020
-*Faible publication sur l’Europe : 6 articles 
+Lourde répartition entre mars et avril (frise très peu lisible) 
 
-Articles 2021 :
+Environ 65-70% des articles "Pandémie de Covid-19 dans tel pays" 
+
+Sujet géographique par ordre d'apparition : Iran, Corée du sud, Italie, France, Suisse, Allemagne, Australie, Belgique, Espagne, état unis, royaume unis, chine, Algérie, Luxembourg, Confinement en Italie 
+
+|        Date       |                                Titre                                |
+|:-----------------:|:-------------------------------------------------------------------:|
+|  January 5, 2021  |     Programme de vaccination contre la Covid-19 du Royaume-Uni      |
+|  January 8, 2021  |           Pandémie de Covid-19 dans les Visayas centrales           |
+|  January 9, 2021  |        Campagne de vaccination contre la Covid-19 en France         |
+|  January 9, 2021  |                Pandémie de Covid-19 aux Philippines                 |
+| January 10, 2021  |                            Gam-COVID-Vac                            |
+| January 12, 2021  |        Pandémie de Covid-19 aux États fédérés de Micronésie         |
+| January 16, 2021  |        Confinements liés à la pandémie de Covid-19 au Québec        |
+| January 19, 2021  |           Impact de la pandémie de Covid-19 sur le cinéma           |
+| January 23, 2021  |                             Covid long                              |
+| February 5, 2021  |                Enquêtes sur l'origine de la Covid-19                |
+|   March 2, 2021   |                Traitement et gestion de la Covid-19                 |
+|  March 18, 2021   |            Liste de vaccins contre la Covid-19 autorisés            |
+|  March 24, 2021   |        Campagne de vaccination contre la Covid-19 au Québec         |
+|  March 24, 2021   |                  Pandémie de Covid-19 en Éthiopie                   |
+|  March 24, 2021   |                   Pandémie de Covid-19 à Djibouti                   |
+|  April 14, 2021   |          Modélisation mathématique de l'épidémie Covid-19           |
+|  April 15, 2021   |                  Pandémie de Covid-19 au Cambodge                   |
+|  April 24, 2021   |               Politique vaccinale contre la Covid-19                |
+|    May 7, 2021    | Impact de la pandémie de Covid-19 sur la télévision aux États-Unis  |
+
+
+En comparaison à l’Allemagne, la situation en Turquie a été traité le 23 mars en Français. On constate néanmoins que le traitement de l’Algérie apparait assez tôt dans les articles Français. Les pays francophones eux-mêmes n’ont pas été traité en priorité par les auteurs francophones. 
+
+De septembre à octobre, on voit un intérêt tout particulier pour le Canada Francophone et le Canada en général. 
+
+On constate que la production d’article en langue française est beaucoup plus forte que la production allemande : et pour cause, la France a été bien moins productive sur l’année 2020 sur le traitement de la situation des autres pays. Une hypothèse possible est que les rédacteurs allemands sont plus réactifs sur la traduction de ces articles le plus souvent issus de l’anglais. 
+
+
+## Visualisation des données Timeline JS : Allemand
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TFnQ15VT4MhSNVuhU-NLF1nMDw9qJjOyvOr2BYWVGeY&font=Default&lang=en&initial_zoom=10&height=500' width='100%' height='500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+263 résultats 
+
+Un résultat en 2004 : COVID-19-Pandemie in Ischgl (Historique : Großer Tiroler Tourismusort : Grande station touristique tyrolienne) 
+
+Lourde répartition entre mars et avril (frise très peu lisible) 
+
+Environ 80% des articles "Pandémie de Covid-19 dans tel pays" 
+
+Premier article : 14 janvier 2020 - Covid 19 
+
+Dernier article : 5 mai 2021 : COVID-19-Schutzmaßnahmen-Ausnahmenverordnung 
+
+
+Sujet géographique par ordre d'apparition : Chine, Taiwan, Chili dès janvier, puis Italie le 23 février (isolé), puis Allemagne et les Bundeslander, Corée du sud, suisse, Liechtenstein, Autriche, Ukraine, Island, France, Monaco, Estonie, Vanuatu, Comores, Lesotho, Iran, Cameroun, Togo, Espagne, etc. 
+
+On constate que la situation en Turquie a été traité le 27 mars 2020, vers le milieu du pic d’activité dans la publication des articles. L’hypothèse du traitement des pays possédant des liens proches ne se vérifie pas ici : on peut supposer que la proximité géographique de la crise et l’intensité des crises selon pays ont motivés la rédaction des articles (Italie, premier pays européen traité) 
+
+On constate la présence de l’Autriche et du Liechtenstein ainsi que de certain pays de l’ancien bloc de l’Est. 
+
+
+## Visualisation des données Timeline JS : Polonais
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10dhYSZxYEBnh7cxr85f6LaKI7K4YGiWtSVupFHo7OXU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+44 résultats 
+
+Premier résultat le 21 janvier 2020 : Pandemia COVID-19 
+
+Dernier résultat le 28 avril, après deux mois d’inactivité : La pandémie de Covid 19 au Paraguay  
+
+Un léger pic entre mars et avril, mais beaucoup moins conséquent que sur les autres langues 
+
+Sujet Géographique par ordre d’apparition : Pologne, Italie, Chine, Kosovo, Espagne, Kirghizistan, Allemagne, Vatican, Russie, Etats-Unis, France, Royaume-Uni, Slovaquie, Canada, Pandémie de COVID-19 en Suisse, Hollande, Australie, Danemark, Iran, Israël, République démocratique du Congo, « Pandémie de COVID-19 par pays », Brésil, Mongolie, Inde, Ouzbékistan, Luxembourg, Mexique, Asie, Belgique, Malaisie, Indonésie, Philippine, Nouvelle Zélande, Madagascar, Ukraine, Paraguay 
+
+Le polonais n’étant parlé que dans un pays, le nombre de résultat est bien plus réduit. Les sujets restent très réduits « vaccination » « traitement » ; à coté un certain nombre de pays a été traité : proportionnellement au nombre d’article, les autres pays ont été plus traité que la France ou même l’Allemagne. 
 
 
 
 
-## Visualisation des données Timeline JS : portugais  
+
+
+## Visualisation des données Timeline JS : Portugais  
 Les données trouvées en portugais contiennent 205 articles contenant le mot COVID-19 dans leur titre. Il est possible que les données en portugais contiennent autant d’articles car le portugais est parlé par 252,2 millions de locuteurs dans plusieurs pays du monde dont le Portugal, le Brésil, l’Inde et d’autres pays. Les articles ont été publiés en 2020 et 2021 années correspondant à l’apparition du Covid-19. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KIK-rpBdiw-XhN3S8BF-5TAIqvs16QGB_8l6sQ67D2w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -30,7 +100,7 @@ Les données trouvées en portugais contiennent 205 articles contenant le mot CO
 
 A travers la timeline crée uniquement pour les données en portugais, on peut constater que durant la période de fin février à mi-mai 2020 de nombreux articles ont été publié. Un grand nombre de ses articles parlent des cas de Covid-19 dans différents pays. D’autres articles sont tournés sur la désinformation sur le Covid-19 et tente sûrement à travers les articles d’informer la population sur les effets du virus.  
 
-### Analyse des données en portugais de 2021 : 
+## Analyse des données en portugais de 2021 : 
 |   Date    |                  Titre en portugais                   |                       Titre en français                        |   |   |
 |:---------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|---|---|
 | 14.04.21  | CPI da COVID-19                                       | Commission               d’enquête  parlementaire du COVID-19  |   |   |
@@ -56,7 +126,7 @@ Le portugais contient 10 articles publiés durant l’année 2021. Plusieurs art
 
 En ce qui concerne les données en italien, une grande partie des articles ont été écrit durant la période de mars à octobre 2020. La plupart des articles traite du covid-19 dans différents pays. Il y a 166 articles recensés en italien entre 2020 et 2021. 154 articles ont été écrit en 2020 contre 11 en 2021. On peut penser que les articles en 2020 sont beaucoup plus nombreux car l’Italie a été l’un des pays les plus touché en Europe durant l’année 2020. Un grand nombre d’articles en italien concerne la pandémie du Covid-19 dans des pays autres que l’Italie. L’italien contient 68 millions d’interlocuteurs. Il est possible que les articles aient été rédigés en Italie ou en Suisse car ce sont deux pays qui ont pour langue nationale l’italien. 
 
-### Analyse des données en italien 2021 : 
+## Analyse des données en italien 2021 : 
 
 |   Date    |                  Titre en portugais                   |                       Titre en français                        |   |   |
 |:---------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|---|---|
