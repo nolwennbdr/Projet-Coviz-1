@@ -1,5 +1,5 @@
 # Dataviz et analyse des résultats
-Dans cette partie nous abordons les dataviz et l'analyse des résultats par langue
+Dans cette partie nous abordons les dataviz et l'analyse des résultats par langues.
 
 ## Visualisation des données Timeline JS : Francais
 
