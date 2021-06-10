@@ -8,11 +8,11 @@ Certaines langues contiennent plus de données, cela est certainement dû au fai
 ![TimeslineJS_Turque_1](https://user-images.githubusercontent.com/75143201/121569635-48db5f80-ca21-11eb-97a9-286a1a2adea0.png)
 
 ### Analyse des données pour le Turc
-*Résultats : 54 articles ont été publiés 
-*Nombre d’articles 2020 : 49
-*Nombre d’articles 2021 : 5
-*Forte apparition au mois d’avril, mai et juin 2020
-*Faible publication sur l’Europe : 6 articles 
+* Résultats : 54 articles ont été publiés
+* Nombre d’articles 2020 : 49
+* Nombre d’articles 2021 : 5
+* Forte apparition au mois d’avril, mai et juin 2020
+* Faible publication sur l’Europe : 6 articles 
 
 Articles 2021 :
 
