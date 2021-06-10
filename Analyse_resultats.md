@@ -84,13 +84,13 @@ Sujet Géographique par ordre d’apparition : Pologne, Italie, Chine, Kosovo,
 Le polonais n’étant parlé que dans un pays, le nombre de résultat est bien plus réduit. Les sujets restent très réduits « vaccination » « traitement » ; à coté un certain nombre de pays a été traité : proportionnellement au nombre d’article, les autres pays ont été plus traité que la France ou même l’Allemagne. 
 
 
-## Visualisations des données sur TimelineJS : anglais:
+## Visualisations des données sur TimelineJS : Anglais:
 
 ![TimelinesJS_Anglais_2](https://user-images.githubusercontent.com/75143201/121572286-49292a00-ca24-11eb-8428-b6aa4f8deb0f.png)
 
 ![Timeline_Anglais_1](https://user-images.githubusercontent.com/75143201/121572422-7544ab00-ca24-11eb-95bd-7d7b86c1e127.png)
 
-# Analyse des données pour l'Anglais
+## Analyse des données pour l'Anglais
 Résultats : 489 articles ont été publiés sur Wikipédia 
 
 Nombre articles 2020 : 424
@@ -103,6 +103,7 @@ Articles publiés dans différents pays :
 
 COVID-19 pandemic : Niger, Arabie Saoudite, Congo, Djibouti, Malawi, Amérique du Sud, Nouvelle-Zélande, Madagascar, Asie du Sud, Nicaragua, Arménie, Haïti, Somalie, Niger etc. 
 
+## Analyse des données en anglais pour 2021 :
 
 | Date        | Titre                                                                    | Titre en français                                              |
 |-------------|--------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -139,6 +140,7 @@ Nombre d’articles 2021 : 5
 
 Forte apparition au mois d’avril, mai et juin 2020	Faible publication sur l’Europe : 6 articles 
 
+## Analyse des données en turc pour 2021 :
 Articles 2021 :
 
 | Date       | Titre                                                | Titre en français                                               |
