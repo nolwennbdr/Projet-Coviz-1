@@ -238,6 +238,8 @@ quitter = Button(fenetre, text='Fermer l\'application',width=50, command=quit).p
 fenetre.mainloop()
 ```
 ## Résultat du scrapping
+Voici un exemple de résultats du scrapping dans un tableau (au format csv quand on le télécharge).
+
 
 |Titre                                                                                                                            |Dates            |Langues  |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|
