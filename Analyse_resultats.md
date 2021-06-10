@@ -7,7 +7,7 @@ Certaines langues contiennent plus de données, cela est certainement dû au fai
 
 ![TimeslineJS_Turque_1](https://user-images.githubusercontent.com/75143201/121569635-48db5f80-ca21-11eb-97a9-286a1a2adea0.png)
 
-Analyse des données pour le Turc
+### Analyse des données pour le Turc
 *Résultats : 54 articles ont été publiés 
 *Nombre d’articles 2020 : 49
 *Nombre d’articles 2021 : 5
@@ -30,7 +30,7 @@ Les données trouvées en portugais contiennent 205 articles contenant le mot CO
 
 A travers la timeline crée uniquement pour les données en portugais, on peut constater que durant la période de fin février à mi-mai 2020 de nombreux articles ont été publié. Un grand nombre de ses articles parlent des cas de Covid-19 dans différents pays. D’autres articles sont tournés sur la désinformation sur le Covid-19 et tente sûrement à travers les articles d’informer la population sur les effets du virus.  
 
-## Analyse des données en portugais de 2021 : 
+### Analyse des données en portugais de 2021 : 
 |   Date    |                  Titre en portugais                   |                       Titre en français                        |   |   |
 |:---------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|---|---|
 | 14.04.21  | CPI da COVID-19                                       | Commission               d’enquête  parlementaire du COVID-19  |   |   |
@@ -56,7 +56,7 @@ Le portugais contient 10 articles publiés durant l’année 2021. Plusieurs art
 
 En ce qui concerne les données en italien, une grande partie des articles ont été écrit durant la période de mars à octobre 2020. La plupart des articles traite du covid-19 dans différents pays. Il y a 166 articles recensés en italien entre 2020 et 2021. 154 articles ont été écrit en 2020 contre 11 en 2021. On peut penser que les articles en 2020 sont beaucoup plus nombreux car l’Italie a été l’un des pays les plus touché en Europe durant l’année 2020. Un grand nombre d’articles en italien concerne la pandémie du Covid-19 dans des pays autres que l’Italie. L’italien contient 68 millions d’interlocuteurs. Il est possible que les articles aient été rédigés en Italie ou en Suisse car ce sont deux pays qui ont pour langue nationale l’italien. 
 
-## Analyse des données en italien 2021 : 
+### Analyse des données en italien 2021 : 
 
 |   Date    |                  Titre en portugais                   |                       Titre en français                        |   |   |
 |:---------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|---|---|
