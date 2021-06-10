@@ -237,3 +237,6 @@ quitter = Button(fenetre, text='Fermer l\'application',width=50, command=quit).p
 fenetre.mainloop()
 ```
 ## Résultat du scrapping
+
+
+<- [Accueil](/readme.md) ------ [Les outils de la dataviz](/Les_outils_dataviz.md) ->
