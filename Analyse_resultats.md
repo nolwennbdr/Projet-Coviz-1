@@ -180,7 +180,7 @@ A travers la timeline crée uniquement pour les données en portugais, on peut c
 | 18.01.21  | Vacinação contra a COVID-19 no Brasil                 | Vaccination contre le COVID19 au Brésil                        |
 | 27.03.21  | Recessão causada pela pandemia de COVID-19            | Récession due à la pandémie                                    |
 | 30.03.21  | Pandemia de COVID-19 no  Vietnã                       | Pandémie du COVID-19 au  Vietnam                               |
-| 10.0.21   | Cronologia da pandemia de COVID-19 em Israel          | Chronologie de la pandémie du covid 19 en Israël               |
+| 10.01.21  | Cronologia da pandemia de COVID-19 em Israel          | Chronologie de la pandémie du covid 19 en Israël               |
 | 01.01.21  | Cronologia da pandemia de COVID-19 em janeiro de 2021 | Chronologie de la pandémie du COVID-19 en janvier 2021         |
 | 03.01.21  | Cronologia da pandemia de COVID-19 na Ucrânia         | Chronologie de la pandémie du COVID-19 en Ukraine              |
 | 31.01.21  | Vacinação contra a COVID-19 em Portugal               | Vaccination contre le COVID19 au Portugal                      |
@@ -203,8 +203,8 @@ En ce qui concerne les données en italien, une grande partie des articles ont �
 
 |   Date    |                          Titre en italien                         |                 Titre en français                 |
 |:---------:|:-----------------------------------------------------------------:|:-------------------------------------------------:|
-|  19.3.21  | Statistiche della pandemia di  COVID-19 in Italia                 | Statistique de la pandémie du covid-19 en Italie  |
-|  2.02.21  | Vaccino anti COVID-19 Novavax                                     | Vaccin anti COVID-19 Novavax                      |
+| 19.03.21  | Statistiche della pandemia di  COVID-19 in Italia                 | Statistique de la pandémie du covid-19 en Italie  |
+| 02.02.21  | Vaccino anti COVID-19 Novavax                                     | Vaccin anti COVID-19 Novavax                      |
 | 02.02.21  | Vaccino anti COVID-19 Johnson & Johnson                           | Vaccin anti Covid-19 Johnson & Johnson            |
 | 20.01.21  | Pandemia di COVID-19 in Polonia                                   | Pandémie du Covid-19 en Pologne                   |
 | 01.01.21  | Pandemia di COVID-19 in  California                               | Pandémie du Covid-19 en Californie                |
