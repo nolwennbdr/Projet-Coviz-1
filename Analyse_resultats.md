@@ -1,7 +1,7 @@
+# Dataviz et analyse des résultats
+Dans cette partie nous abordons les dataviz et analyses des résultats par langues.
 
-
-
-## Visualisations des données sur TimelineJS: Anglais:
+## Visualisations des données sur TimelineJS : anglais:
 ![TimelinesJS_Anglais_2](https://user-images.githubusercontent.com/75143201/121572286-49292a00-ca24-11eb-8428-b6aa4f8deb0f.png)
 
 ![Timeline_Anglais_1](https://user-images.githubusercontent.com/75143201/121572422-7544ab00-ca24-11eb-95bd-7d7b86c1e127.png)
