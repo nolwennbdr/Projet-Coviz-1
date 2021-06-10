@@ -136,8 +136,8 @@ A travers la timeline crée uniquement pour les données en portugais, on peut c
 
 ## Analyse des données en portugais de 2021 : 
 |   Date    |                   Titre en portugais                  |                       Titre en français                        |
-|-----------|-------------------------------------------------------|----------------------------------------------------------------|
-| 14.04.21  | CPI da COVID-19                                       | Commission               d’enquête  parlementaire du COVID-19  |
+|:---------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|
+| 14.04.21  | CPI da COVID-19                                       | Commission d’enquête  parlementaire du COVID-19                |
 | 18.01.21  | Vacinação contra a COVID-19 no Brasil                 | Vaccination contre le COVID19 au Brésil                        |
 | 27.03.21  | Recessão causada pela pandemia de COVID-19            | Récession due à la pandémie                                    |
 | 30.03.21  | Pandemia de COVID-19 no  Vietnã                       | Pandémie du COVID-19 au  Vietnam                               |
@@ -161,17 +161,17 @@ En ce qui concerne les données en italien, une grande partie des articles ont �
 
 ## Analyse des données en italien 2021 : 
 |   Date    |                          Titre en italien                         |                 Titre en français                 |
-|-----------|-------------------------------------------------------------------|---------------------------------------------------|
-|  19.3.21  | Statistiche       della     pandemia      di  COVID-19 in Italia  | Statistique de la pandémie du covid-19 en Italie  |
+|:---------:|:-----------------------------------------------------------------:|:-------------------------------------------------:|
+|  19.3.21  | Statistiche della pandemia di  COVID-19 in Italia                 | Statistique de la pandémie du covid-19 en Italie  |
 |  2.02.21  | Vaccino anti COVID-19 Novavax                                     | Vaccin anti COVID-19 Novavax                      |
 | 02.02.21  | Vaccino anti COVID-19 Johnson & Johnson                           | Vaccin anti Covid-19 Johnson & Johnson            |
 | 20.01.21  | Pandemia di COVID-19 in Polonia                                   | Pandémie du Covid-19 en Pologne                   |
-| 01.01.21  | Pandemia        di      COVID-19       in  California             | Pandémie du Covid-19 en Californie                |
+| 01.01.21  | Pandemia di COVID-19 in  California                               | Pandémie du Covid-19 en Californie                |
 | 20.01.21  | Pandemia di COVID-19 in Kosovo =                                  | Pandémie du Covid-19 au  Kossovo                  |
 | 22.02.21  | Pandemia di COVID-19 in Moldavia                                  | Pandémie du Covid-19 en Moldavie                  |
 | 01.01.21  | Pandemia di COVID-19 in Illinois                                  | Pandémie du COVID-19 en Illinois                  |
-| 05.01.21  | Pandemia        di      COVID-19       in  Mississippi            | Pandémie du COVID-19 en  Mississippi              |
-| 03.01.21  | Pandemia        di      COVID-19       in  Massachusetts          | Pandémie du COVID-19 au Massachusetts             |
+| 05.01.21  | Pandemia di COVID-19 in  Mississippi                              | Pandémie du COVID-19 en  Mississippi              |
+| 03.01.21  | Pandemia di COVID-19 in  Massachusetts                            | Pandémie du COVID-19 au Massachusetts             |
 | 06.01.21  | Commissione vaticana COVID-19                                     | Commission du Vatican COVID19                     |
 
 
