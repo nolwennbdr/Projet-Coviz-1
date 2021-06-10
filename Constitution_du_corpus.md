@@ -1,4 +1,5 @@
 # Constitution du corpus
+Dans  cette partie, le programme utilisé pour scraper wikipédia et les résultats de ce scrapping afin de constituer le corpus.
 
 ## L'application de scrapping de wikipédia
 Pour constituer notre corpus de d'articles wikipédia traitant du covid-19 dans différentes langues nous avons fini par créer notre propre application de scrapping dont voici le programme :
